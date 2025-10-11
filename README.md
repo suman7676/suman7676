@@ -15,8 +15,8 @@ Skills: VUE JS / REACT / JS / HTML / Tailwind CSS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/suman ahammed](https://www.linkedin.com/in/full-stack-developer-suman/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BRCTjya0AQ4CrEVsaUU805g%3D%3D)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suman ahammed" height="30" width="40" /></a>
-<a href="[https://fb.com/suman ahammed](https://www.facebook.com/suman.ahammed.2024)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suman ahammed" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/full-stack-developer-suman/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BgT54vXc7SL2pqdSIihkxIA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suman ahammed" height="30" width="40" /></a>
+<a href="https://www.facebook.com/suman.ahammed.2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suman ahammed" height="30" width="40" /></a>
 <a href="https://instagram.com/suman ahammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suman ahammed" height="30" width="40" /></a>
 <a href="https://sumanahammed.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="suman ahammed" height="30" width="40" /></a>
 </p>
