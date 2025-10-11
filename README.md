@@ -6,8 +6,8 @@ I'm a passionate full stack developer who loves building scalable web applicatio
 
 Skills: VUE JS / REACT / JS / HTML / Tailwind CSS
 
-- 🔭 I’m currently working on website <a href="topmobile.uk  " ><p  >topmobile.uk </p></a> 
-- 🌱 I’m currently learning <p  >JavaScript </p> 
+- 🔭 I’m currently working on website: <a href="topmobile.uk  " ><p  >topmobile.uk </p></a> 
+- 🌱 I’m currently learning <p text-bolt >JavaScript </p> 
 - 🤔 I’m looking for help with data base design 
 - 📫 How to reach me:<a href="sumanahammed.com " ><p hieght=200 width=200 >SumanAhammed.com</p></a>
 
