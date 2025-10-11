@@ -6,10 +6,10 @@ I'm a passionate full stack developer who loves building scalable web applicatio
 
 Skills: VUE JS / REACT / JS / HTML / Tailwind CSS
 
-- 🔭 I’m currently working on topmobile.uk website 
+- 🔭 I’m currently working on website <a href="topmobile.uk  " ><p hieght=200 width=200 >topmobile.uk </p></a> 
 - 🌱 I’m currently learning JavaScript 
 - 🤔 I’m looking for help with data base design 
-- 📫 How to reach me:<a href="sumanahammed.com " ><p hieght=200 width=200 >My Portfolio</p></a>
+- 📫 How to reach me:<a href="sumanahammed.com " ><p hieght=200 width=200 >SumanAhammed.com</p></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suman7676&label=Profile%20views&color=0e75b6&style=flat" hieght=200 width=200 alt="suman7676" /> </p>
 
