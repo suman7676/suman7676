@@ -17,9 +17,9 @@
 - 📫 How to reach me **suman7676512gmail.com**
 
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+<p align="center" ><img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" /></p>
 
 
 
