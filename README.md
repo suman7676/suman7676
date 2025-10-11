@@ -21,6 +21,9 @@ Skills: VUE JS / REACT / JS / HTML / Tailwind CSS
 <a href="https://sumanahammed.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="suman ahammed" height="30" width="40" /></a>
 </p>
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suman7676)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=suman7676&show_icons=true)  
