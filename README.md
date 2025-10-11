@@ -23,7 +23,7 @@ Skills: VUE JS / REACT / JS / HTML / Tailwind CSS
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
-
+https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suman7676)](https://github.com/anuraghazra/github-readme-stats)
