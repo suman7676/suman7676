@@ -1,10 +1,10 @@
 ### Hi there 👋,  I'm Suman Ahammed
-#### Hi I'm a full-stack developer with the love of a  LARAVEL FRAMEWORK .Listed skills include all things , JavaScript, such as React and Vue.js
+#### Hi I'm a full-stack developer with the love of a Next.js and LARAVEL FRAMEWORK .Listed skills include all things , JavaScript, such as React and Vue.js
 ![Hi I'm a full-stack developer with the love of a Django, LARAVEL FRAMEWORK .Listed skills include all things , JavaScript, such as React and Vue.js](https://media.licdn.com/dms/image/v2/D5616AQGjPrF2A3weHg/profile-displaybackgroundimage-shrink_350_1400/B56Zmkx_OIJ0AY-/0/1759406192852?e=1762992000&v=beta&t=BlB2xxxKqhqYBcHJECMFMBI_fKYf1-G-aH2_sO3l6zI)
 
 I'm a passionate full stack developer who loves building scalable web applications and solving complex problems through code. I enjoy working across the entire development stack, from crafting intuitive user interfaces to designing robust backend systems.
 
-Skills: VUE JS / REACT / JS / HTML / Tailwind CSS
+Skills: Next JS / REACT / JS / HTML / Tailwind CSS
 
 - 🔭 I’m currently working on website: <a href="topmobile.uk  " ><p  >topmobile.uk </p></a> 
 - 🌱 I’m currently learning : JavaScript 
